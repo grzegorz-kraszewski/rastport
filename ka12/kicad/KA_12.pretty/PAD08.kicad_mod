@@ -1,0 +1,13 @@
+(footprint "PAD08" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 57125746)
+  (fp_text reference "PAD08" (at 0 -1.905) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 201b4659-6525-4bc5-8e51-8e7ad8aea2c8)
+  )
+  (fp_text value "VAL**" (at 3.429 0) (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 37442f5f-4942-44f5-9f65-4f69d3902ace)
+  )
+  (pad "1" thru_hole circle (at 0 0) (size 1.778 1.778) (drill 0.8128) (layers *.Cu *.Mask "F.SilkS") (tstamp db56dd67-359b-45dd-b096-100b8d0e9bd6))
+)
