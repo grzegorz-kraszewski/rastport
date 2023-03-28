@@ -12,7 +12,7 @@
 |CN1|D-Sub 25 pin female plug, for cable|1|
 |CN1|D-Sub 25 pin shell|1|
 |–|Data transmission cable, LiYCY 2 × 0.25 mm², braided shield|3 m|
-|–|DIN 5 plug, Rean NYS232|2|
+|–|DIN 5 plug, Rean NYS322|2|
 |–|Heat shrink tube 1.6 mm, black|16 mm|
 |–|Heat shrink tube 4.8 mm, black|90 mm|
 |–|Heat shrink tube 4.8 mm, red|90 mm|
