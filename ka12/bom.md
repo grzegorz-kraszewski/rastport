@@ -8,7 +8,7 @@
 |C1-C6|MLCC capacitor; 100 nF, 50 V, X7R, ±10%; 1206|6|
 |C7|MLCC capacitor; 100 pF, 50 V, C0G, ±10%; 1206|1|
 |R1, R3, R4|Thick film resistor; 220 Ω, 0.25 W, ±5%; 1206|3|
-|R2|Thick film resistor; 3.3 kΩ, 0.25 W, ±5%; 1206|1|
+|R2|Thick film resistor; 2.2 kΩ, 0.25 W, ±5%; 1206|1|
 |CN1|D-Sub 25 pin female plug, for cable|1|
 |CN1|D-Sub 25 pin shell|1|
 |–|Data transmission cable, LiYCY 2 × 0.25 mm², braided shield|3 m|
